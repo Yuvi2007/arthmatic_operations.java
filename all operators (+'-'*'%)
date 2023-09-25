@@ -1,0 +1,15 @@
+class Main {
+  public static void main(String[] args) {
+    int a;  //declration 
+    a=9;  //initialization
+      //int x = a%b;//modulo operator (remainder)
+    int x=a;
+    // int x=a/b;
+    //System.out.println("Integer value is"+x);
+    System.out.println(a%1);
+    System.out.println(a/1);
+    System.out.println(a-3);
+    System.out.println(a*3);
+    System.out.println(a+3);
+  }
+}
