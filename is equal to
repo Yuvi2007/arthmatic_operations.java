@@ -1,0 +1,11 @@
+//Compound assignment operators
+class Main {
+  public static void main(String[] args) {
+    int i=3; int j=6;
+    if(i==3)
+    {
+//statement
+      System.out.println(" i  is equal to 3");
+    }
+  }
+}
